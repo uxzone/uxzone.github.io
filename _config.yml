@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               轴(jiāo hù)
+tagline:             体验与实现，交互与交流
+url:                 http://uxzone.org
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Li Chong
+  url:               https://github.com/delapecci
+  email:             chong.li@uxzone.org
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+#version:             1.0.0
+#github:
+#  repo:              https://github.com/poole/poole
